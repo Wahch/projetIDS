@@ -1,0 +1,10 @@
+#  non supervisee
+# KDDTrain+.TXT
+# KDDTrain+_20Percent.TXT
+# KDDTest+.TXT
+# KDDTest-21.TXT
+# supervisee
+# KDDTrain+.ARFF
+# KDDTrain+_20Percent.ARFF
+# KDDTest+.ARFF
+# KDDTest-21.ARFF
